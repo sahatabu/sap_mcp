@@ -15,7 +15,7 @@ Codex maps the request to a safe SAP MCP tool call, and SAP enforces read-only a
 ## Current Endpoint
 
 ```text
-https://vhupnds5ci.sap.uipath.com:44300/sap/bc/mcp?sap-client=100
+
 ```
 
 ## Project Structure
